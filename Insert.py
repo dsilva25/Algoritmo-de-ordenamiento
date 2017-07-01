@@ -20,7 +20,7 @@ for linea in file:
 
 infile.close()
 
-## ----------------------- Ejecutamos QuickSort----------------------
+## ----------------------- Ejecutamos InsertSort----------------------
 insercion(lista)
 ## ---------------- Escribimos variables en otro txt-----------------
 infile2=open('numOrdenados.txt','w')
